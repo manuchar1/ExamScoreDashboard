@@ -1,0 +1,2 @@
+rootProject.name = "ExamScoreDashboard"
+include ':app'
